@@ -4,6 +4,7 @@ Includes:
 
 * An STL & 3mf file (With each of the robot's parts)
 * G-code files (for printing out each of the robot's parts on a Creality Ender 3 V-2 printer in two stages).
+* An Apache License (for the SO-100 Model)
 
 Print time ~2 days
 
