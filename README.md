@@ -6,4 +6,6 @@ The final robot will:
 * Be 'embodied' in its actions with the power of computer vision.
 
 ## Credits
-* This project, and all parts purchased, are based on the HuggingFace SO-100 tutorial and LeRobot library: https://github.com/TheRobotStudio/SO-ARM100
+This project, and all parts purchased, are based on the HuggingFace SO-100 tutorial and LeRobot library:
+* https://huggingface.co/docs/lerobot/en/so100
+* https://github.com/TheRobotStudio/SO-ARM100
