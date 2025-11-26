@@ -44,4 +44,5 @@ This project is based on the HuggingFace/TheRobotStudio SO-100 tutorial, Phospho
 # License
 
 The SO-100 Arm 3D models included in this repository are licensed under the Apache license: https://github.com/TheRobotStudio/SO-ARM100/blob/main/LICENSE
+
 Any material that is not sourced from that repository is licensed by the MIT License.
