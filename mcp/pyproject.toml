@@ -1,0 +1,10 @@
+[project]
+name = "vlarm"
+version = "0.1.0"
+description = "MCP server for working with SO-100, meant for use with Ollama models"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "httpx>=0.28.1",
+    "mcp[cli]>=1.22.0",
+]
