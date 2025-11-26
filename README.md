@@ -24,10 +24,11 @@ The `mcp` folder in the main directory contains the files for running an MCP wit
 
 ## Instructions
 
-Prerequisites: 
+Set up the Prerequisites: 
 * Ollama (https://ollama.com/): Make sure to run `ollama run qwen2.5` to get a LLM with tool-use running locally after Ollama is installed.
 * Python
 
+Then:
 1. Run `pip install ollmcp`.
 2. Assuming you've cloned this repository, go to the `mcp` directory.
 3. Run `ollmcp --mcp-server server.py --model qwen2.5`.
