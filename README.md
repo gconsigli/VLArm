@@ -26,6 +26,7 @@ The `mcp` folder in the main directory contains the files for running an MCP wit
 
 Set up the Prerequisites: 
 * Ollama (https://ollama.com/): Make sure to run `ollama run qwen2.5` to get an LLM with tool-use running locally after Ollama is installed.
+* Phosphobot (Download and run locally): https://phospho.mintlify.app/installation
 * Python
 
 Then:
