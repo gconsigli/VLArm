@@ -11,21 +11,22 @@
 
 I'm hoping to get funding through HackClub's Blueprint program to get the hardware to build this project. I will 3D print the parts without HackClub's funding.
 
-# Structure
+## Structure
 
 This repository contains the following files and directories:
 * `BOM.csv`: Parts needed to build the arm.
 * `3D`: 3D models and Ultimaker Cura files for 3D printing the casing for the arm.
 * `mcp`: A folder with the files for setting up an MCP server that can be used to control the arm via an LLM.
 
-# Setting up MCP for Ollama
+## Setting up MCP for Ollama
 
 The `mcp` folder in the main directory contains the files for running an MCP with Anthropic's open-source protocol. Anthropic's protocol can be used with Ollama through ollmcp, which is an open-source MCP client for Ollama. This folder contains files that can be configured with ollmcp to have a locally-running LLM through Ollama make tool calls to move the arm.
 
-## Instructions
+### Instructions
 
 Set up the Prerequisites: 
 * Ollama (https://ollama.com/): Make sure to run `ollama run qwen2.5` to get an LLM with tool-use running locally after Ollama is installed.
+* Phosphobot (Download and run locally): https://phospho.mintlify.app/installation
 * Python
 
 Then:
