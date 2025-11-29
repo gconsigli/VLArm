@@ -1,6 +1,6 @@
 # VLArm
 
-**Goal:** Replicating Google DeepMind's VLA model (Vision-Language-Action model) to create a robotic arm that can be used in industry settings.
+**Goal:** creating a more 'human' robotic arm that can be used in industry settings with the power of Vision-Language-Action models.
 
 **The twist:** This project will take an existing robot (HuggingFace's SO-101) and give it the capability to make decisions 'for itself' with the power of a locally-running MCP and LLM (from Ollama). Essentially, the robot will take actions based on language commands, controlled with a locally running Large Language Model. 
 
