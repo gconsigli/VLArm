@@ -1,5 +1,4 @@
 # VLArm
-## HackClub X AMD Blueprint Build 2025
 
 **Goal:** Replicating Google DeepMind's VLA model (Vision-Language-Action model) to create a robotic arm that can be used in industry settings.
 
@@ -9,7 +8,7 @@
 
 ## How I'll build it
 
-I'm hoping to get funding through HackClub's Blueprint program to get the hardware to build this project. I will 3D print the parts without HackClub's funding.
+I will need approximately $150 to feasibly build this project.
 
 ## Structure
 
